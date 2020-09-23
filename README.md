@@ -22,6 +22,7 @@ LinkedIn e Shimmer Effect no ReactJS UI Clone | https://www.youtube.com/watch?v=
 Titulo    | Link
 --------- | ------
 Interface da Twitch.tv no React Native UI Clone |https://www.youtube.com/watch?v=bJVp_vlvMwQ
+Implementando o React Navigation |https://www.youtube.com/watch?v=WVdRjMycfpo
 
 ## HTML
 Titulo    | Link
